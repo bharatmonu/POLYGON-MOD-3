@@ -38,9 +38,7 @@ These templates articulate the logic governing the AND, NOT, and OR gates, respe
    - Calls `verifyProof()` on the verifier contract with calldata for proof verification.
 
 
-## Authors
 
-- Pallab Chanda
 
 ## License
 
